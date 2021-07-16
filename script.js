@@ -59,7 +59,7 @@ window.onload = function() {
         number = Math.trunc(Math.random() * 20) + 1
         console.log(number)
         body.style['background-color'] = '#333'
-        comment.textContent = 'Start guessing...'
+        comment.textContent = 'Start guessing!'
         inputNum.value = ''
         score.textContent = 10
         hidenNum.textContent = '?'
