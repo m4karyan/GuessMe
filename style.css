@@ -30,6 +30,7 @@ body {
   font-family: 'Press Start 2P', cursive;
   font-size: 1rem;
   transition: background-color 0.2s;
+  background-color: #fff;
 }
 
 .button:hover {
@@ -160,6 +161,7 @@ body {
     font-family: 'Press Start 2P', cursive;
     font-size: 0.8rem;
     transition: background-color 0.2s;
+    background-color: #fff;
   }
   
   .button:hover {
@@ -287,6 +289,7 @@ body {
     font-family: 'Press Start 2P', cursive;
     font-size: 0.8rem;
     transition: background-color 0.2s;
+    background-color: #fff;
   }
   
   .button:hover {
@@ -299,7 +302,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 150px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
   }
   
   .main h1 {
@@ -416,6 +419,8 @@ body {
     font-family: 'Press Start 2P', cursive;
     font-size: 0.6rem;
     transition: background-color 0.2s;
+    background-color: #888;
+    background-color: #fff;
   }
   
   .button:hover {
@@ -428,7 +433,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 150px;
-    margin-bottom: 40px;
+    margin-bottom: 0;
   }
   
   .main h1 {
